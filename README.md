@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeoLucard
 - 👀 I’m interested in Coding and Learning new things...
-- 🌱 I’m currently learning on JAVA and SQL Database
+- 🌱 I’m currently learning on Python
 
 <!---
 LeoLucard/LeoLucard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
